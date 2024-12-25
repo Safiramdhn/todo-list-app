@@ -1,7 +1,7 @@
-# Kitameraki Task Management App
+# To-do's List Management App
 
 ## Overview
-This is a full-stack Task Management Application developed as part of the Kitameraki technical recruitment process. The application allows users to manage tasks with advanced form customization features.
+This is a full-stack To-do's List Management Application. The application allows users to manage tasks with advanced form customization features.
 
 ## Project Structure
 - `frontend/`: React.js frontend application
@@ -45,7 +45,6 @@ This is a full-stack Task Management Application developed as part of the Kitame
 - npm or yarn
 - React.js
 - Fluent UI
-- React DnD (Drag and Drop) library
 
 ## Installation
 
@@ -72,7 +71,6 @@ npm start
 - Frontend: React.js
 - UI Library: Fluent UI
 - Backend: Node.js
-- Drag and Drop: React DnD
 
 ## Usage Scripts
 ```
