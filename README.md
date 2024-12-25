@@ -1,13 +1,11 @@
 # To-do's List Management App
 
 ## Overview
-This is a full-stack To-do's List Management Application. The application allows users to manage tasks with advanced form customization features.
+This is a full-stack To-do's List Management Application. The application allows users to manage tasks
 
 ## Project Structure
 - `frontend/`: React.js frontend application
 - `backend/`: Node.js backend API
-
-## Part 1: Basic Task Management
 
 ### Frontend Features
 - Create new tasks with:
@@ -24,21 +22,6 @@ This is a full-stack To-do's List Management Application. The application allows
 - In-memory task storage
 - Pagination support
 - Appropriate HTTP methods and status codes
-
-## Part 2: Dynamic Form Customization
-
-### Advanced Frontend Features
-- Settings page for form configuration
-- Drag-and-drop field addition
-- Customizable optional fields
-- Supported field types:
-  - TextField
-  - DatePicker
-  - SpinButton
-- Configurable form applies across:
-  - Create Task form
-  - Edit Task form
-  - Task List
 
 ## Prerequisites
 - Node.js
@@ -61,11 +44,6 @@ cd frontend
 npm install
 npm start
 ```
-
-## Development Branches
-- `main`: Initial project setup
-- `part_one`: Basic task management implementation
-- `part_two`: Dynamic form customization
 
 ## Technologies Used
 - Frontend: React.js
